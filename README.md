@@ -1,2 +1,2 @@
-#1 : Memilih Bahasa Pemrograman
+#Video 1 : Memilih Bahasa Pemrograman
 Jika ingin membuat situs web maka kita harus menguasai bahasa pemrograman seperti HTML, CSS, dan Java Script. Namun jika ingin membuat aplikasi desktop, maka kita harus menguasai bahasa pemrograman seperti C++, python, dan java. Kemudian untuk menjadi game development kita harus menguasai bahasa C++ atau C#. Serta jika kita memilih bidang pengembangan web, kita akan berfokus pada Java Script dan PHP. Setelah mempelajari satu bahasa dengan spesifik akan lebih mudah untuk kita belajar bahasa-bahasa lain.
