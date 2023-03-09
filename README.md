@@ -16,3 +16,11 @@ Berikut ini adalah tag PHP:
 ?>
 ```
 
+unutk menampilkan kode dalam php dapat menggunakan perintah ```echo```
+
+```
+<?php echo "Hello World!"; ?>
+```
+
+## Video 4 : Variable
+
