@@ -10,7 +10,7 @@ Jika ingin membuat situs web maka kita harus menguasai bahasa pemrograman sepert
 ## Video 3 : Tag PHP
 Berikut ini adalah tag PHP:
 
-```
+```php
 <?php
     //kode php
 ?>
@@ -18,9 +18,20 @@ Berikut ini adalah tag PHP:
 
 unutk menampilkan kode dalam php dapat menggunakan perintah ```echo```
 
-```
+```php
 <?php echo "Hello World!"; ?>
 ```
 
 ## Video 4 : Variable
 
+```php
+ <?php 
+    $greeting = "Hello";
+    echo "$greeting Everybody";
+?>
+```
+
+Penggunaan ``` " & ' ```.
+``` " ``` digunakan apabila ingin mengembalikan nilai variabel, sedangkan ``` ' ``` berfungsi untuk menampilkan semua yang terdapat dalam echo
+
+## Video 5 : Boolean
